@@ -7,6 +7,6 @@ CTO & Co-Founder @[PiniOn](https://pinion.app)
 * [Twitter](https://twitter.com/ygbr)
 
 ### Open Source Projects
-* ![mapsnap](/mapsnap)
+* [mapsnap](/mapsnap)
 * [SQLasagna](https://github.com/ygbr/sqlasagna)
 * [TiAds](https://github.com/pinio/tiads)

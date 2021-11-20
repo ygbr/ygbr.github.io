@@ -1,2 +1,2 @@
-# ygbr.github.io
+# Ygor Lemos
 https://ygor.dev

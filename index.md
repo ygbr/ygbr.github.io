@@ -5,6 +5,7 @@ CTO & Co-Founder @[PiniOn](https://pinion.app)
 ### Blog / Social
 * [https://ygor.ninja](https://ygor.ninja)
 * [Twitter](https://twitter.com/ygbr)
+* [LinkedIn](https://www.linkedin.com/in/ygorlemos/)
 
 ### Open Source Projects
 * [mapsnap](https://mapsnap.ygor.dev)
@@ -13,5 +14,5 @@ CTO & Co-Founder @[PiniOn](https://pinion.app)
 
 ### Contact
 
-* 📨 [ygbr@mac.com](mailto:ygbr@mac.com)
+* 📨 [y@ygor.dev](mailto:y@ygor.dev)
 * 📲 [Telegram](https://t.me/yyggoorr)

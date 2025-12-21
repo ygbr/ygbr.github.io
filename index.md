@@ -16,3 +16,7 @@ CTO & Co-Founder @[PiniOn](https://pinion.app)
 
 * 📨 [y@ygor.dev](mailto:y@ygor.dev)
 * 📲 [Telegram](https://t.me/yyggoorr)
+
+
+**need advisoring or consulting? check it out:**
+[intro.co/YgorLemos](intro.co/YgorLemos)

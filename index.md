@@ -19,4 +19,4 @@ CTO & Co-Founder @[PiniOn](https://pinion.app)
 
 
 **need advisoring or consulting? check it out:**
-[intro.co/YgorLemos](intro.co/YgorLemos)
+[https://intro.co/YgorLemos](https://intro.co/YgorLemos)

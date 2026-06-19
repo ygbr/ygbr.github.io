@@ -197,7 +197,7 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "2768bfccd3b29dd56266e03b540b83c6091abc66fd0ca3760837d4ef74592569",
-        "lastSyncedAt": "2026-06-19T18:20:14.286Z",
+        "lastSyncedAt": "2026-06-19T18:48:22.531Z",
         "attributes": [
           {
             "id": "LINE",
@@ -205,7 +205,7 @@
           },
           {
             "id": "COLOR",
-            "value_name": "Space grey"
+            "value_name": "Prateado"
           },
           {
             "id": "RAM_MEMORY_MODULE_TOTAL_CAPACITY",
@@ -330,14 +330,19 @@
           {
             "id": "SPEAKERS_NUMBER",
             "value_name": "2"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450294"
           }
         ],
-        "syncedMetaHash": "674436959d9b1ce850b7d2fe1d034dcfa678401214784a0bf5d12f893947b611",
+        "syncedMetaHash": "76a75575e9a7acfc45ef7f0b7498ce3782b98f3436d7fdbfa4e3a53c8b0ad497",
         "pictureSources": [
-          "https://http2.mlstatic.com/D_NQ_NP_660555-MLA74805962205_022024-F.jpg",
-          "https://http2.mlstatic.com/D_NQ_NP_989737-MLA74805959139_022024-F.jpg",
-          "https://http2.mlstatic.com/D_NQ_NP_956730-MLA74806227739_022024-F.jpg",
-          "https://http2.mlstatic.com/D_NQ_NP_991822-MLA74807970229_022024-F.jpg"
+          "https://http2.mlstatic.com/D_NQ_NP_625028-MLA96137586609_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_999257-MLU71621100291_092023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_745249-MLU71621414879_092023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_839259-MLU71572856340_092023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_964415-MLU71572905808_092023-F.jpg"
         ]
       }
     },
@@ -487,12 +492,12 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "b4723841d4a5f5649684776fc3e1124205456ded25181982892ecc8f22c31f99",
-        "lastSyncedAt": "2026-06-19T18:20:15.157Z",
-        "syncedMetaHash": "b038c212ed8a370d67023d17c2740e13801d3605613bcbf5ecfbe5f9afe6fb7a",
+        "lastSyncedAt": "2026-06-19T18:49:36.057Z",
+        "syncedMetaHash": "38aad844320907f1d19040f2d72f784c69dfd2abe43cd0a90733146a6ba5d2a5",
         "attributes": [
           {
             "id": "KEYBOARD_COLOR",
-            "value_name": "Branco"
+            "value_name": "Preto"
           },
           {
             "id": "LAYOUT",
@@ -558,6 +563,10 @@
             "id": "KEYBOARD_WEIGHT",
             "value_name": "390 g"
           }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_759522-MLA74781978445_022024-F.jpg",
+          "https://eshop.macsales.com/images/_gallery_/bin/APLMRMH2LLAUB-pimid71840-lg.jpg"
         ]
       }
     },
@@ -821,8 +830,8 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "b0a7c1f3ee7addd60e5c7f57dc80ba9962577a00b555a62c26fd9165d1a9220f",
-        "lastSyncedAt": "2026-06-19T18:20:15.693Z",
-        "syncedMetaHash": "f741fdc20027346564ece4074eb2d0bcd8a616c4fc259fa861d4b11e3fded930",
+        "lastSyncedAt": "2026-06-19T18:48:23.612Z",
+        "syncedMetaHash": "5cf75d49f1bffbcdb6f57d504e1c514c8f3da2af0f36965b4957022cb8109b79",
         "attributes": [
           {
             "id": "KEYBOARD_COLOR",
@@ -840,6 +849,11 @@
             "id": "DETAILED_MODEL",
             "value_name": "Magic Keyboard"
           }
+        ],
+        "pictureSources": [
+          "https://upload.wikimedia.org/wikipedia/commons/8/8e/Magic_Keyboard_US.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/b/b3/Apple_Magic_Keyboard_-_US.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/0/06/Apple_Magic_Keyboard_-_UK.jpg"
         ]
       }
     },
@@ -1243,7 +1257,7 @@
         "categoryId": "MLB99889",
         "categoryConfirmed": true,
         "itemId": "MLB6999090508",
-        "permalink": null,
+        "permalink": "https://produto.mercadolivre.com.br/MLB-6999090508-ipad-air-5-256gb-wi-fi-cellular-azul-chip-m1-_JM",
         "status": "active",
         "syncedPrice": 4200,
         "syncedQuantity": 1,
@@ -1647,7 +1661,7 @@
         "categoryId": "MLB180137",
         "categoryConfirmed": true,
         "itemId": "MLB4796482385",
-        "permalink": null,
+        "permalink": "https://produto.mercadolivre.com.br/MLB-4796482385-drone-dji-mavic-2-zoom-fly-more-combo-4k-_JM",
         "status": "active",
         "syncedPrice": 6000,
         "syncedQuantity": 1,
@@ -1970,7 +1984,7 @@
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
         "itemId": "MLB6999127170",
-        "permalink": null,
+        "permalink": "https://produto.mercadolivre.com.br/MLB-6999127170-ubiquiti-unifi-cloud-key-gen2-plus-uck-g2-plus-1tb-_JM",
         "status": "active",
         "syncedPrice": 1500,
         "syncedQuantity": 1,

@@ -567,7 +567,6 @@
     .cta {
       text-decoration: none;
       white-space: nowrap;
-      margin-left: auto;
       font-family: "DM Sans", sans-serif;
       font-size: 14px;
       font-weight: 600;
@@ -586,6 +585,26 @@
 
     .cta:active {
       transform: translateY(0);
+    }
+
+    /* Action buttons cluster (Mercado Livre + WhatsApp) */
+    .actions {
+      margin-left: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: stretch;
+    }
+
+    /* Mercado Livre button — brand yellow */
+    .cta.ml {
+      background: #FFE600;
+      color: #2C5066;
+      box-shadow: 0 8px 18px -8px rgba(255, 214, 0, 0.85);
+    }
+
+    .cta.ml:hover {
+      background: #FFD60A;
     }
 
     /* ============================================================
@@ -689,6 +708,11 @@
         flex-direction: column;
         align-items: stretch;
         gap: 13px;
+      }
+
+      .actions {
+        width: 100%;
+        flex-direction: column;
       }
 
       .cta {
@@ -921,6 +945,13 @@
         ? `<span class="badge qty">${product.quantity} unidades disponíveis</span>` : "";
       const note = product.note ? `<p class="note">${product.note}</p>` : "";
 
+      // Link to the live Mercado Livre listing when one is published.
+      const mlUrl = product.ml && product.ml.permalink ? product.ml.permalink : "";
+      const mlBtn = mlUrl
+        ? `<a class="cta ml" href="${mlUrl}" target="_blank" rel="noopener"
+             aria-label="Ver ${product.name} no Mercado Livre">Mercado Livre</a>`
+        : "";
+
       card.innerHTML = `
     ${mediaHTML(product)}
     <div class="cat">${product.category}</div>
@@ -935,8 +966,11 @@
         <span class="price-label">Valor</span>
         <span class="price">${formatBRL(product.price)}</span>
       </div>
-      <a class="cta" href="${whatsappLink(product)}" target="_blank" rel="noopener"
-         aria-label="Tenho interesse em ${product.name} pelo WhatsApp">Tenho interesse</a>
+      <div class="actions">
+        ${mlBtn}
+        <a class="cta" href="${whatsappLink(product)}" target="_blank" rel="noopener"
+           aria-label="Tenho interesse em ${product.name} pelo WhatsApp">Tenho interesse</a>
+      </div>
     </div>
   `;
 

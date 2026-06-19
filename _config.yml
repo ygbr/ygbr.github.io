@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+
+# Keep tooling and generated artifacts out of the published site.
+exclude:
+  - scripts/
+  - node_modules/
+  - mercadolivre-bulk.csv
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

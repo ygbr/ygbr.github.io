@@ -798,14 +798,14 @@
       "ml": {
         "categoryId": "MLB1055",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null,
+        "itemId": "MLB7000469386",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-7000469386-motorola-one-hyper-128-gb-azul-_JM",
+        "status": "paused",
+        "syncedPrice": 600,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "6685a0fd7ef6de0ff23e213d0c6789aa01e8ab032ccfc19ecb0ea0f756144a80",
+        "lastSyncedAt": "2026-06-19T17:03:26.973Z",
         "attributes": [
           {
             "id": "COLOR",
@@ -826,6 +826,10 @@
           {
             "id": "CARRIER",
             "value_id": "298335"
+          },
+          {
+            "id": "CELLPHONES_ANATEL_HOMOLOGATION_NUMBER",
+            "value_name": "066221900330"
           }
         ]
       }

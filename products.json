@@ -53,8 +53,101 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "8f2365ab7eba7074cd49bb99d9e8028e41fa813d6316c72e83d7518bcb2d19f0",
-        "lastSyncedAt": "2026-06-19T17:51:59.008Z",
-        "syncedMetaHash": "59fb6bd2517e3951b42fdb6cf59eb97a3e2190ad8e48f9d5b0f824874cce86ca"
+        "lastSyncedAt": "2026-06-19T18:13:04.601Z",
+        "syncedMetaHash": "fde1cfc3506a5dd532a16c146fe623c7ee4eeaa0191bd833a5cb26c9e4b55c4a",
+        "attributes": [
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "A2096"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Azul-céu"
+          },
+          {
+            "id": "PAIRS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450293"
+          },
+          {
+            "id": "HEADPHONE_FORMAT",
+            "value_name": "Over-ear"
+          },
+          {
+            "id": "IS_WIRELESS",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_BLUETOOTH",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_MICROPHONE",
+            "value_id": "242085"
+          },
+          {
+            "id": "HEADPHONE_MAX_BATTERY_LIFE",
+            "value_name": "20 h"
+          },
+          {
+            "id": "INCLUDES_CHARGING_CASE",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_WIRELESS_CHARGING",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_TWS_TECHNOLOGY",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_HANDS_FREE_MODE",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_NOISE_CANCELLING",
+            "value_id": "242085"
+          },
+          {
+            "id": "IS_WATER_RESISTANT",
+            "value_id": "242084"
+          },
+          {
+            "id": "IS_WATERPROOF",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_DETACHABLE_CABLE",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_DETACHABLE_MICROPHONE",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_FLEXIBLE_MICROPHONE",
+            "value_id": "242084"
+          },
+          {
+            "id": "BLUETOOTH_VERSION",
+            "value_name": "5"
+          },
+          {
+            "id": "ACCESSORIES_INCLUDED",
+            "value_name": "Cabo lightning a USB-C, Capa inteligente"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_917772-MLA95656603542_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_670312-MLA45715010526_042021-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_786375-MLA74779499149_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_865428-MLA45807525425_052021-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_880076-MLA45807212707_052021-F.jpg"
+        ]
       }
     },
     {
@@ -104,11 +197,31 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "2768bfccd3b29dd56266e03b540b83c6091abc66fd0ca3760837d4ef74592569",
-        "lastSyncedAt": "2026-06-19T17:51:59.475Z",
+        "lastSyncedAt": "2026-06-19T18:20:14.286Z",
         "attributes": [
           {
-            "id": "DISPLAY_SIZE",
-            "value_name": "14\""
+            "id": "LINE",
+            "value_name": "MacBook Pro"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Space grey"
+          },
+          {
+            "id": "RAM_MEMORY_MODULE_TOTAL_CAPACITY",
+            "value_name": "32 GB"
+          },
+          {
+            "id": "SSD_DATA_STORAGE_CAPACITY",
+            "value_name": "1 TB"
+          },
+          {
+            "id": "DISPLAY_REFRESH_RATE",
+            "value_name": "120 Hz"
+          },
+          {
+            "id": "DISPLAY_RESOLUTION",
+            "value_name": "3024 px x 1964 px"
           },
           {
             "id": "PROCESSOR_BRAND",
@@ -116,14 +229,116 @@
           },
           {
             "id": "PROCESSOR_LINE",
-            "value_name": "Apple M2"
+            "value_name": "M2"
           },
           {
             "id": "PROCESSOR_MODEL",
             "value_name": "M2 Max"
+          },
+          {
+            "id": "OS_NAME",
+            "value_id": "7232871"
+          },
+          {
+            "id": "OS_EDITION",
+            "value_name": "Pro"
+          },
+          {
+            "id": "WITH_TOUCH_SCREEN",
+            "value_id": "242084"
+          },
+          {
+            "id": "INTEGRATED_GRAPHIC_CARD_BRAND",
+            "value_name": "Apple"
+          },
+          {
+            "id": "RAM_MEMORY_TYPE",
+            "value_name": "DDR4"
+          },
+          {
+            "id": "PRODUCT_TYPE",
+            "value_id": "51377614"
+          },
+          {
+            "id": "WITH_NUMERIC_PAD",
+            "value_id": "242084"
+          },
+          {
+            "id": "DISPLAY_TYPE",
+            "value_name": "Liquid Retina XDR"
+          },
+          {
+            "id": "SOUND_MODES",
+            "value_name": "Dolby Atmos, Estéreo"
+          },
+          {
+            "id": "ACCESSORIES_INCLUDED",
+            "value_name": "Cabo USB-C, Adaptador USB-C"
+          },
+          {
+            "id": "WEBCAM_VIDEO_RESOLUTION_TYPE",
+            "value_name": "Full HD"
+          },
+          {
+            "id": "WEBCAM_VIDEO_RESOLUTION",
+            "value_name": "1920 px x 1080 px"
+          },
+          {
+            "id": "MAX_BATTERY_LIFE",
+            "value_name": "17 h"
+          },
+          {
+            "id": "CONNECTIVITY",
+            "value_name": "USB Thunderbolt 4"
+          },
+          {
+            "id": "DISPLAY_SIZE",
+            "value_name": "14.2 \""
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "31.26 cm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "22.12 cm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "1.55 cm"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "1.61 kg"
+          },
+          {
+            "id": "BATTERY_TYPE",
+            "value_name": "Polímero de lítio"
+          },
+          {
+            "id": "VIDEO_PORT_TYPES",
+            "value_name": "DisplayPort"
+          },
+          {
+            "id": "MAX_SUPPORTED_RAM_MEMORY_CAPACITY",
+            "value_name": "64 GB"
+          },
+          {
+            "id": "COLOR_GAMUT",
+            "value_name": "P3"
+          },
+          {
+            "id": "SPEAKERS_NUMBER",
+            "value_name": "2"
           }
         ],
-        "syncedMetaHash": "53e36876ce1e4117a7a234043ac68c9da16a06f219a5122b5b31711186e3b639"
+        "syncedMetaHash": "674436959d9b1ce850b7d2fe1d034dcfa678401214784a0bf5d12f893947b611",
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_660555-MLA74805962205_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_989737-MLA74805959139_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_956730-MLA74806227739_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_991822-MLA74807970229_022024-F.jpg"
+        ]
       }
     },
     {
@@ -173,26 +388,56 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "65dbe6ed46357e17b1e308c8112309a03aceff2b33f93f98b60464b91a19424a",
-        "lastSyncedAt": "2026-06-19T17:51:59.993Z",
+        "lastSyncedAt": "2026-06-19T18:20:14.697Z",
         "attributes": [
           {
+            "id": "LINE",
+            "value_name": "MAC MINI M2"
+          },
+          {
             "id": "VOLTAGE",
-            "value_id": "39205163"
+            "value_name": "127/220V"
+          },
+          {
+            "id": "OS_NAME",
+            "value_name": "macOS"
+          },
+          {
+            "id": "RAM_MEMORY_MODULE_TOTAL_CAPACITY",
+            "value_name": "16 GB"
+          },
+          {
+            "id": "SSD_DATA_STORAGE_CAPACITY",
+            "value_name": "1 TB"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Cinza"
           },
           {
             "id": "PROCESSOR_BRAND",
             "value_name": "Apple"
           },
           {
-            "id": "PROCESSOR_LINE",
-            "value_name": "Apple M2"
+            "id": "OS_VERSION",
+            "value_name": "Sierra"
           },
           {
-            "id": "PROCESSOR_MODEL",
-            "value_name": "M2 Pro"
+            "id": "RAM_MEMORY_SPEED",
+            "value_name": "24 MHz"
+          },
+          {
+            "id": "CORES_NUMBER",
+            "value_name": "19"
           }
         ],
-        "syncedMetaHash": "ddb13d0493cabb11161f4e3fdd31282fd25a10de8d5325a4283396a01c322453"
+        "syncedMetaHash": "8a46f7444f4b3427e81a9b4727628da236f1f75741fa4759ad34ec72d0ba34df",
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_852915-MLU73931337981_012024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_628859-MLU71094864665_082023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_624127-MLU78848041307_082024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_824288-MLU71065453066_082023-F.jpg"
+        ]
       }
     },
     {
@@ -242,8 +487,78 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "b4723841d4a5f5649684776fc3e1124205456ded25181982892ecc8f22c31f99",
-        "lastSyncedAt": "2026-06-19T17:52:00.376Z",
-        "syncedMetaHash": "74cb3345d32e05ef05a19e401b669168f110aa2a304ff3fadbf66e69d6aabe6d"
+        "lastSyncedAt": "2026-06-19T18:20:15.157Z",
+        "syncedMetaHash": "b038c212ed8a370d67023d17c2740e13801d3605613bcbf5ecfbe5f9afe6fb7a",
+        "attributes": [
+          {
+            "id": "KEYBOARD_COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "LAYOUT",
+            "value_name": "QWERTY"
+          },
+          {
+            "id": "LANGUAGE",
+            "value_name": "Português"
+          },
+          {
+            "id": "KEYBOARD_HEIGHT",
+            "value_name": "11.49 cm"
+          },
+          {
+            "id": "KEYBOARD_WIDTH",
+            "value_name": "41.87 cm"
+          },
+          {
+            "id": "KEYBOARD_DEPTH",
+            "value_name": "1.09 cm"
+          },
+          {
+            "id": "PC_KEYBOARD_ARCHITECTURE",
+            "value_name": "De Tesoura"
+          },
+          {
+            "id": "IS_NUMERIC_KEYBOARD",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_DISPLAY",
+            "value_id": "242084"
+          },
+          {
+            "id": "CONNECTIVITY",
+            "value_name": "Bluetooth"
+          },
+          {
+            "id": "ACCESSORIES_INCLUDED",
+            "value_name": "Pilhas"
+          },
+          {
+            "id": "WITH_WRIST_REST",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_TOUCHPAD",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_NUMERIC_PAD",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_TRACKBALL",
+            "value_id": "242084"
+          },
+          {
+            "id": "IS_ONE_HANDED",
+            "value_id": "242084"
+          },
+          {
+            "id": "KEYBOARD_WEIGHT",
+            "value_name": "390 g"
+          }
+        ]
       }
     },
     {
@@ -293,8 +608,96 @@
         "syncedQuantity": 2,
         "syncedStatus": "active",
         "syncedDescHash": "d41f5183de3249948eb10581c11594fb022edcc09a18adb1a9fe04d7430afbfc",
-        "lastSyncedAt": "2026-06-19T17:52:00.875Z",
-        "syncedMetaHash": "62fb9a56e27d249f8d030c31bc0190929a15d1944c8122b7599b92d10135c786"
+        "lastSyncedAt": "2026-06-19T18:13:05.424Z",
+        "syncedMetaHash": "0dede1f6ba27c3e90959cb64c483450dcdbe8dfdb0c420d27dfb8ae4530493db",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "Magic"
+          },
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "A1657"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Preto"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450295"
+          },
+          {
+            "id": "DETAILED_MODEL",
+            "value_name": "MMMQ3BE/A"
+          },
+          {
+            "id": "COMPUTER_MOUSE_TYPE",
+            "value_name": "Tátil"
+          },
+          {
+            "id": "SENSOR_TYPE",
+            "value_name": "Laser"
+          },
+          {
+            "id": "HAND_ORIENTATION",
+            "value_name": "Ambidestro"
+          },
+          {
+            "id": "COMPATIBLE_OPERATING_SYSTEMS",
+            "value_name": "macOS, iPadOS, Windows 10"
+          },
+          {
+            "id": "WITH_BLUETOOTH",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_WIRE",
+            "value_id": "242084"
+          },
+          {
+            "id": "IS_WIRELESS",
+            "value_id": "242085"
+          },
+          {
+            "id": "SENSOR_RESOLUTION",
+            "value_name": "1300 dpi"
+          },
+          {
+            "id": "BUTTONS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "LENGTH",
+            "value_name": "1.14 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "5.71 cm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "2.16 cm"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Apple"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "99 g"
+          },
+          {
+            "id": "WITH_LIGHTS",
+            "value_id": "242084"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_960224-MLA94382816153_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_878548-MLA94382471453_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_656989-MLU74325757852_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_725289-MLA94382638787_102025-F.jpg"
+        ]
       }
     },
     {
@@ -344,8 +747,32 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "1be1a448fb52b6ef5d74bd1f39242ba9543ffa0d92f58780fc5ecb9971ddd76c",
-        "lastSyncedAt": "2026-06-19T17:52:01.389Z",
-        "syncedMetaHash": "38acf69c9f236cfa56f45da49608d5a63a8a70c06599c39f177adc4085b3764d"
+        "lastSyncedAt": "2026-06-19T18:13:05.832Z",
+        "syncedMetaHash": "423aca44944db68efad2c229bb9ecd9556a22be1b8e9fb6d8a4f58255bf6c36a",
+        "attributes": [
+          {
+            "id": "COLOR",
+            "value_name": "Preto"
+          },
+          {
+            "id": "CONNECTION_TYPE",
+            "value_name": "Bluetooth"
+          },
+          {
+            "id": "IS_RECHARGEABLE",
+            "value_id": "242085"
+          },
+          {
+            "id": "IS_GAMER",
+            "value_id": "242084"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_622583-MLA85060713214_052025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_686280-MLA85060713228_052025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_668349-MLA85060861006_052025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_938005-MLA85362544319_052025-F.jpg"
+        ]
       }
     },
     {
@@ -394,8 +821,26 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "b0a7c1f3ee7addd60e5c7f57dc80ba9962577a00b555a62c26fd9165d1a9220f",
-        "lastSyncedAt": "2026-06-19T17:52:01.832Z",
-        "syncedMetaHash": "70ef43084ea705bdc3e0791a9a2db71efcce0c77a9988166384fafb776321762"
+        "lastSyncedAt": "2026-06-19T18:20:15.693Z",
+        "syncedMetaHash": "f741fdc20027346564ece4074eb2d0bcd8a616c4fc259fa861d4b11e3fded930",
+        "attributes": [
+          {
+            "id": "KEYBOARD_COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "LINE",
+            "value_name": "Magic Keyboard"
+          },
+          {
+            "id": "LAYOUT",
+            "value_name": "QWERTY"
+          },
+          {
+            "id": "DETAILED_MODEL",
+            "value_name": "Magic Keyboard"
+          }
+        ]
       }
     },
     {
@@ -446,8 +891,150 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "7c946e6459a0b9c14f74ac1d31e5aa2f52d8d40cd382c09678401d0d5c7bfa61",
-        "lastSyncedAt": "2026-06-19T17:52:02.227Z",
-        "syncedMetaHash": "b17c0d8c795ca637beff7cec5f48a009599cac0223f6895b40146bae9bfeba59"
+        "lastSyncedAt": "2026-06-19T18:13:06.388Z",
+        "syncedMetaHash": "4fdec4516268be1b066a670d0fac4676adf2fb5feb878d09cea74a4cdc8fcd2c",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "RouterBOARD"
+          },
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "RB760iGS"
+          },
+          {
+            "id": "VERSION",
+            "value_name": "2"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Cinza"
+          },
+          {
+            "id": "SALE_FORMAT",
+            "value_id": "1359391"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "VOLTAGE",
+            "value_name": "127/220V"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242085"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "Roteador"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "1210905"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCIES",
+            "value_name": "880 mhz"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "880 MHz"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "MikroTik"
+          },
+          {
+            "id": "TOTAL_PORTS_NUMBER",
+            "value_name": "7"
+          },
+          {
+            "id": "LAN_PORTS_NUMBER",
+            "value_name": "4"
+          },
+          {
+            "id": "WAN_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "WAN_LAN_PORTS_NUMBER",
+            "value_name": "5"
+          },
+          {
+            "id": "USB_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "IEEE_STANDARDS",
+            "value_name": "IEEE 802.11a/b/g/n/ac"
+          },
+          {
+            "id": "WITH_INTEGRATED_FIREWALL",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_HOTSPOT",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_RESET_BUTTON",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_PARENTAL_CONTROL",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_ADAPTATIVE_QOS_FUNCTION",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_AI_PROTECTION",
+            "value_id": "242084"
+          },
+          {
+            "id": "SECURITY_PROTOCOLS",
+            "value_name": "NAT, SPI"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "346 g"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "2.8 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "11.3 cm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "8.9 cm"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_799558-MLA99523353794_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_809815-MLA40175285010_122019-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_736100-MLU73129907224_122023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_620152-MLU74827855191_022024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_841739-MLA80182430935_102024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_777725-MLA80182420977_102024-F.jpg"
+        ]
       }
     },
     {
@@ -498,12 +1085,38 @@
         "syncedQuantity": 4,
         "syncedStatus": "active",
         "syncedDescHash": "b551746292eb16f8ecc2fe28d568d27fa52a548740b2dbbab76cec955c0579d8",
-        "lastSyncedAt": "2026-06-19T17:52:02.601Z",
+        "lastSyncedAt": "2026-06-19T18:20:16.195Z",
         "pictureSources": [
           "https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg",
           "https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry_Pi_4_Model_B_-_Top.jpg"
         ],
-        "syncedMetaHash": "477ae2c104e653423d667225ae7dc1fe7331d0e71a9198a95e3e2c9937d4ea98"
+        "syncedMetaHash": "f06a804ca562328c8ccf4bc83e88f114c62adb0dc9900b0547b56eca4f2a3219",
+        "attributes": [
+          {
+            "id": "OPERATING_VOLTAGE",
+            "value_name": "5V"
+          },
+          {
+            "id": "CLOCK_SPEED",
+            "value_name": "1.5 GHz"
+          },
+          {
+            "id": "LENGTH",
+            "value_name": "85 mm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "56 mm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "17 mm"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "46 g"
+          }
+        ]
       }
     },
     {
@@ -554,12 +1167,38 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "ad8c8b7ca70b76ad99e884656aa555cb9a7e77c4805856a64e03898ba64cc106",
-        "lastSyncedAt": "2026-06-19T17:52:03.068Z",
+        "lastSyncedAt": "2026-06-19T18:20:16.563Z",
         "pictureSources": [
           "https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg",
           "https://upload.wikimedia.org/wikipedia/commons/1/10/Raspberry_Pi_4_Model_B_-_Top.jpg"
         ],
-        "syncedMetaHash": "b419e787e24542c0e312febf125deeaf3be36bd1759a36f57daf4db34cba94b8"
+        "syncedMetaHash": "373d1cfc57c9f12da27dcc1ee540da762c5e402fe692df558b2fe50a3b9b6c23",
+        "attributes": [
+          {
+            "id": "OPERATING_VOLTAGE",
+            "value_name": "5V"
+          },
+          {
+            "id": "CLOCK_SPEED",
+            "value_name": "1.5 GHz"
+          },
+          {
+            "id": "LENGTH",
+            "value_name": "85 mm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "56 mm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "17 mm"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "46 g"
+          }
+        ]
       }
     },
     {
@@ -610,8 +1249,140 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "6589d63d170f1dd4fbd31d83e7f9ba5b4996226da8576721642e01f170904970",
-        "lastSyncedAt": "2026-06-19T17:52:03.445Z",
-        "syncedMetaHash": "5cbdc57a7dd8f2e0cd4795b79495cd5ebd3dbf23249567c78365050d3a34f4d8"
+        "lastSyncedAt": "2026-06-19T18:13:06.993Z",
+        "syncedMetaHash": "412dbeae22118090c685d2b88ed0f58b563d30755f72175a844603c0ecc0f2ab",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "iPad Air"
+          },
+          {
+            "id": "VERSION",
+            "value_name": "2022"
+          },
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "A2588"
+          },
+          {
+            "id": "WITH_MOBILE_NETWORK",
+            "value_id": "242085"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Azul"
+          },
+          {
+            "id": "RAM_MEMORY_MODULE_TOTAL_CAPACITY",
+            "value_name": "8 GB"
+          },
+          {
+            "id": "CAPACITY",
+            "value_name": "256 GB"
+          },
+          {
+            "id": "DISPLAY_SIZE",
+            "value_name": "10.9 \""
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450293"
+          },
+          {
+            "id": "OS_NAME",
+            "value_name": "iPadOS"
+          },
+          {
+            "id": "CONNECTIVITY",
+            "value_name": "USB-C, Conector magnético, Smart connector, Wi-Fi, MIMO, Bluetooth"
+          },
+          {
+            "id": "REAR_CAMERAS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "FRONT_CAMERAS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "BLUETOOTH_VERSION",
+            "value_name": "5"
+          },
+          {
+            "id": "ACCESSORIES_INCLUDED",
+            "value_name": "Carregador USB, Adaptador USB-C"
+          },
+          {
+            "id": "SENSORS",
+            "value_name": "Touch ID, Barómetro"
+          },
+          {
+            "id": "PROCESSORS",
+            "value_name": "Octa-Core"
+          },
+          {
+            "id": "CHIPSET",
+            "value_name": "Apple M1"
+          },
+          {
+            "id": "IS_MULTI_TOUCH",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_FLASH",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_MICROPHONE",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_HEADPHONES_OUTPUT",
+            "value_id": "242084"
+          },
+          {
+            "id": "TABLET_BATTERY_LIFE",
+            "value_name": "10 h"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "461 g"
+          },
+          {
+            "id": "PIXELS_PER_INCH",
+            "value_name": "264 dpi"
+          },
+          {
+            "id": "MEMORY_SPEED",
+            "value_name": "60 MHz"
+          },
+          {
+            "id": "TABLET_REAR_CAMERAS_RESOLUTIONS",
+            "value_name": "12 Mpx"
+          },
+          {
+            "id": "FRONT_CAMERAS_RESOLUTION",
+            "value_name": "12 Mpx"
+          },
+          {
+            "id": "MAX_SCREEN_RESOLUTION",
+            "value_name": "2360 px x 1640 px"
+          },
+          {
+            "id": "CORES_NUMBER",
+            "value_name": "8"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_859604-MLU77119766231_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_782889-MLU77119766243_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_685145-MLU77119766253_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_914148-MLU77119512777_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_830868-MLU76910592142_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_720036-MLU77119512801_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_982692-MLU76910611736_062024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_836588-MLU77119503285_062024-F.jpg"
+        ]
       }
     },
     {
@@ -662,18 +1433,117 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "39416254bfd34c9c697ab94530bfff7a3c23aaecd05d1f5a1458e9ea20bfdc02",
-        "lastSyncedAt": "2026-06-19T17:52:03.909Z",
+        "lastSyncedAt": "2026-06-19T18:13:07.473Z",
         "attributes": [
           {
             "id": "ALPHANUMERIC_MODEL",
-            "value_name": "A2622"
+            "value_name": "A2684"
           },
           {
-            "id": "MANUFACTURER",
-            "value_id": "9344"
+            "id": "DISPLAY_SIZE",
+            "value_name": "1.929 \""
+          },
+          {
+            "id": "CASE_SIZE",
+            "value_name": "49 mm"
+          },
+          {
+            "id": "WITH_MOBILE_NETWORK",
+            "value_id": "242085"
+          },
+          {
+            "id": "SMARTWATCH_VERSION",
+            "value_name": "Ultra 1"
+          },
+          {
+            "id": "SMARTWATCH_CASE_MATERIAL",
+            "value_name": "Titânio"
+          },
+          {
+            "id": "WRISTBAND_MATERIAL",
+            "value_name": "Silicone"
+          },
+          {
+            "id": "WRISTBAND_COLOR",
+            "value_name": "Preto"
+          },
+          {
+            "id": "BEZEL_COLOR",
+            "value_name": "Titânio"
+          },
+          {
+            "id": "WRISTBAND_TYPE",
+            "value_name": "Oceano"
+          },
+          {
+            "id": "LANGUAGES",
+            "value_name": "Todos"
+          },
+          {
+            "id": "SMARTWATCH_COMPATIBLE_OS",
+            "value_name": "iOS"
+          },
+          {
+            "id": "IS_WATER_RESISTANT",
+            "value_id": "242085"
+          },
+          {
+            "id": "SMARTWATCH_FUNCTIONS",
+            "value_name": "Apple Pay, Bússola, Classificação IP6X de resistência à poeira, Controle do ciclo menstrual, Detecção de quedas, ECG, Emergência SOS, Indicador de profundidade, Ligação de emergência em outros países, Localizar iPhone, Sensor de temperatura da água"
+          },
+          {
+            "id": "INTERNAL_MEMORY",
+            "value_name": "32 GB"
+          },
+          {
+            "id": "MAX_WATER_RESISTANCE_DEPTH",
+            "value_name": "100 m"
+          },
+          {
+            "id": "WITH_WIFI",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_GPS",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_BLUETOOTH",
+            "value_id": "242085"
+          },
+          {
+            "id": "IS_INFANT",
+            "value_id": "242084"
+          },
+          {
+            "id": "IS_SMARTBAND",
+            "value_id": "242084"
+          },
+          {
+            "id": "BATTERY_LIFE",
+            "value_name": "1.5 dias"
+          },
+          {
+            "id": "WITH_NFC",
+            "value_id": "242085"
+          },
+          {
+            "id": "WATER_AND_DUST_RESISTANCE_CLASSIFICATION",
+            "value_name": "IPX6"
+          },
+          {
+            "id": "ACCESSORIES_INCLUDED",
+            "value_name": "Alça, Cabo de carregamento magnético de 1 m"
           }
         ],
-        "syncedMetaHash": "32b634f6995d3e5f84346b49b812b333eb580f38ac86846900922d365759a56d"
+        "syncedMetaHash": "6f388877386580488a0676837e4ca8ccb7e9b867138d7a8254c406852ad0a9d4",
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_911691-MLA80439197610_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_696506-MLA80439197614_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_699672-MLA80699705347_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_678623-MLA80438900412_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_674748-MLA80699705359_112024-F.jpg"
+        ]
       }
     },
     {
@@ -723,8 +1593,16 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "8fbb96c8236aecbc27174955dbd401aa3019ca82402b975178d6746ceeb26566",
-        "lastSyncedAt": "2026-06-19T17:52:04.374Z",
-        "syncedMetaHash": "f51f63f6635764f2959425fb307121a86e89c4333643d757d48e34889d05e0e8"
+        "lastSyncedAt": "2026-06-19T18:11:26.305Z",
+        "syncedMetaHash": "94f886c904bc325f5dbd156e992b54840036ebd8e1d1d6e61a08d8f910a0306c",
+        "attributes": [],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_721492-MLA99504217868_112025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_798855-MLA81942221701_012025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_719297-MLA81669829842_012025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_912694-MLA81942259431_012025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_618351-MLA92007253097_092025-F.jpg"
+        ]
       }
     },
     {
@@ -775,8 +1653,32 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "0727daa2a33f7f6ddefb6298b98abd145b14496ed108254d410553aaad442dbe",
-        "lastSyncedAt": "2026-06-19T17:52:04.947Z",
-        "syncedMetaHash": "6a553303129d3754aa9955c2cc51943ba3209a5a9ebbe63751d97114a25b2fad"
+        "lastSyncedAt": "2026-06-19T18:13:07.972Z",
+        "syncedMetaHash": "82551fa4cdc1c3ff8f010631913deba655a8ac0c82ef7bb90badddf2d1fabc7a",
+        "attributes": [
+          {
+            "id": "COLOR",
+            "value_name": "Cinza"
+          },
+          {
+            "id": "BATTERIES_NUMBER_INCLUDED",
+            "value_name": "2"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450294"
+          },
+          {
+            "id": "WITH_PROPELLERS_PROTECTOR",
+            "value_id": "242085"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_727052-MLU77759927063_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_733594-MLU77541931524_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_685952-MLU77541931528_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_917210-MLU77541931534_072024-F.jpg"
+        ]
       }
     },
     {
@@ -905,26 +1807,46 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "9a6072f289b37b3b339fdc35893591b34017123ffedd7e1807753b3a50aee3c8",
-        "lastSyncedAt": "2026-06-19T17:52:05.556Z",
+        "lastSyncedAt": "2026-06-19T18:13:08.428Z",
         "attributes": [
           {
-            "id": "VOLTAGE",
-            "value_id": "39205163"
+            "id": "COLOR",
+            "value_name": "Preto"
           },
           {
-            "id": "PROCESSOR_BRAND",
-            "value_name": "NVIDIA"
+            "id": "OS_VERSION",
+            "value_name": "Linux"
           },
           {
-            "id": "PROCESSOR_LINE",
-            "value_name": "Tegra"
+            "id": "RAM_MEMORY_TYPE",
+            "value_name": "DDR4"
           },
           {
-            "id": "PROCESSOR_MODEL",
-            "value_name": "Tegra X1"
+            "id": "RAM_MEMORY_SPEED",
+            "value_name": "1600 MHz"
+          },
+          {
+            "id": "CORES_NUMBER",
+            "value_name": "4"
+          },
+          {
+            "id": "RAM_SLOTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "WITH_WI_FI",
+            "value_id": "242085"
           }
         ],
-        "syncedMetaHash": "918b060e42f3a955f90d8aca0856f670d4ce3397a9eb95e88b6c52e3e564d7de"
+        "syncedMetaHash": "b5892490817fcc0629a8c78aea1235eae70adb5dd6bf83893f4c7acc431ca4e3",
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_906607-MLU70777951324_082023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_742395-MLU75164080239_032024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_659658-MLU70777811170_082023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_970649-MLU70777811172_082023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_774145-MLU70777811182_082023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_918991-MLU70777811184_082023-F.jpg"
+        ]
       }
     },
     {
@@ -975,15 +1897,27 @@
         "syncedQuantity": 6,
         "syncedStatus": "active",
         "syncedDescHash": "6d2f787dd11b8934098c65a661b4687b05f7735b2b152211704792f0f629972c",
-        "lastSyncedAt": "2026-06-19T17:52:06.168Z",
+        "lastSyncedAt": "2026-06-19T18:20:17.424Z",
         "attributes": [
           {
-            "id": "CAMERA_LOCATIONS",
-            "value_id": "28284812"
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
           },
           {
             "id": "SURVEILLANCE_CAMERA_TYPE",
-            "value_id": "347863"
+            "value_name": "IP"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450308"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_name": "Sem fio"
           }
         ],
         "pictureSources": [
@@ -991,7 +1925,7 @@
           "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/47352/71740/ubiquiti-uvc-g3-flex-add4__37505.1705503321.jpg?c=2&imbypass=on",
           "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/47352/71743/ubiquiti-uvc-g3-flex-add5__74318.1705503321.jpg?c=2&imbypass=on"
         ],
-        "syncedMetaHash": "a603fb6771c4c2375715c6a2e2f287183844bb6ca9ba1632fda59c97a9f671e6"
+        "syncedMetaHash": "85edb0891c73cee5815977b579f09f5e4a9147b4f615086284a9d4e601f50468"
       }
     },
     {
@@ -1042,8 +1976,59 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "8ff3103d82ba215a46026f704f8cf08c864548f531e3fdda183024f6e6c077c6",
-        "lastSyncedAt": "2026-06-19T17:52:06.718Z",
-        "syncedMetaHash": "527087ab79e140a4c7bb396e39870abc5d2b424b7546d16fb295cf7f717ecb99"
+        "lastSyncedAt": "2026-06-19T18:13:09.012Z",
+        "syncedMetaHash": "98a17a86a8f62466854c21fecc9a73bf926c3fff4dd69b5f5d85600959952232",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242084"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "0"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "1210905"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "0"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Ubiquiti"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_950557-MLA99523949834_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_775617-MLA99524075806_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_938631-MLA99524065792_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_978358-MLA99524075816_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_952399-MLU78875878327_092024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_756193-MLA95935517205_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_931963-MLB47833596323_102021-F.jpg"
+        ]
       }
     },
     {
@@ -1096,8 +2081,84 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "e03cd604a4e4e83d44e97c623cfddcf748587aad1e032366a992e0efe4050a12",
-        "lastSyncedAt": "2026-06-19T17:52:07.142Z",
-        "syncedMetaHash": "83f44e1bd2a76b4c5569b80230b7aed0664be724cf0f4e923d6c600be3d87819"
+        "lastSyncedAt": "2026-06-19T18:20:17.973Z",
+        "syncedMetaHash": "8b46364d3ea316441ac4a78b8e9339ce6761274e59629b7bb4d40e748f1962ca",
+        "attributes": [
+          {
+            "id": "ANTENNA_TYPE",
+            "value_name": "Omnidirecional"
+          },
+          {
+            "id": "SALE_FORMAT",
+            "value_id": "1359391"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "MAX_TRANSMISSION_REACH",
+            "value_name": "185 m"
+          },
+          {
+            "id": "MAX_TRANSMISSION_SPEED",
+            "value_name": "200 MB"
+          },
+          {
+            "id": "FREQUENCY",
+            "value_name": "24/5 GHz"
+          },
+          {
+            "id": "MATERIAL",
+            "value_name": "Alumínio"
+          },
+          {
+            "id": "CONNECTOR_GENDER",
+            "value_id": "2210104"
+          },
+          {
+            "id": "CABLE_LENGTH",
+            "value_name": "15.2 m"
+          },
+          {
+            "id": "LENGTH",
+            "value_name": "30.3 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "38 cm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "54.4 cm"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "5650 g"
+          },
+          {
+            "id": "WITH_USB",
+            "value_id": "242084"
+          },
+          {
+            "id": "ANTENNA_AND_ADAPTER_TYPE",
+            "value_id": "28020985"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_746367-MLA95213772804_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_647360-MLA103444998097_012026-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_977279-MLU77217924466_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_678670-MLU77432162079_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_725997-MLU77218424740_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_750597-MLU77218120400_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_605474-MLU77432486755_072024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_698029-MLU77218424758_072024-F.jpg"
+        ]
       }
     },
     {
@@ -1148,8 +2209,75 @@
         "syncedQuantity": 2,
         "syncedStatus": "active",
         "syncedDescHash": "cf0ae7d802221c22f71d46449f07fbfa3adb2ca7739ab5ee00102bd62e4911f8",
-        "lastSyncedAt": "2026-06-19T17:52:07.540Z",
-        "syncedMetaHash": "5d8ecc3ced4c0edba1e1edc279b8785a4b3fecb8fce3d672bb986ae703a10b74"
+        "lastSyncedAt": "2026-06-19T18:13:09.620Z",
+        "syncedMetaHash": "6cfda292ed4adc26f6d53df7ca1be3014d95ed63e46dfb7d8bc2361489489a86",
+        "attributes": [
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "802.11ac"
+          },
+          {
+            "id": "VERSION",
+            "value_name": "Extreme"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "SALE_FORMAT",
+            "value_id": "1359391"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "VOLTAGE",
+            "value_name": "127/220V"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242084"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "Roteador"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "360058"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCIES",
+            "value_name": "5 GHz"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "Banda dupla"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "2"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Apple"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_635107-MLA80627782439_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_764176-MLA80369228830_112024-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_675229-MLA80627782455_112024-F.jpg"
+        ]
       }
     },
     {
@@ -1201,8 +2329,115 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "f3b8acd1069dc3c1af1a6dedc1f28706c701135a32635e73bdf4dcc47ca9f62e",
-        "lastSyncedAt": "2026-06-19T17:52:08.100Z",
-        "syncedMetaHash": "74bdc7e456757f5b8420a6e89547687f35803f6574ec4f3aeff29b51ae6b53a0"
+        "lastSyncedAt": "2026-06-19T18:13:10.040Z",
+        "syncedMetaHash": "a6de5813dec84175e8678b56878bc6eafea9c5388fce3c0e88ee098ed299459f",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "UAP‑AC‑HD"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "SALE_FORMAT",
+            "value_id": "1359391"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "VOLTAGE",
+            "value_name": "220V"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242085"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "Access point"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "11296606"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCIES",
+            "value_name": "2.4 GHz, 5 GHz"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "Banda dupla"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "2"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Ubiquiti"
+          },
+          {
+            "id": "TOTAL_PORTS_NUMBER",
+            "value_name": "3"
+          },
+          {
+            "id": "LAN_PORTS_NUMBER",
+            "value_name": "2"
+          },
+          {
+            "id": "USB_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "IEEE_STANDARDS",
+            "value_name": "IEEE 802.11a/b/g/n/ac/ac"
+          },
+          {
+            "id": "WITH_RESET_BUTTON",
+            "value_id": "242085"
+          },
+          {
+            "id": "ROUTERS_AND_WIRELESS_SYSTEMS_OPERATING_HUMIDITY",
+            "value_name": "5 % - 95 %"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "700 g"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "4.81 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "22 cm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "22 cm"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_649042-MLA95635360374_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_874785-MLA44343945446_122020-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_624427-MLA91980860451_092025-F.jpg"
+        ]
       }
     },
     {
@@ -1254,8 +2489,111 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "f466ed790c8b3f4ba542f0a2e25d4877e0ef2d6618a52bfb7feec379460654ec",
-        "lastSyncedAt": "2026-06-19T17:52:08.531Z",
-        "syncedMetaHash": "3f567d3b2011d98cadc66e0ebeb5e6d52355a6a52d9e37eaca00c67c80675769"
+        "lastSyncedAt": "2026-06-19T18:20:18.620Z",
+        "syncedMetaHash": "b6fe3822db0a1cbdf01805069e3f6b176d1f54c138f1b40935f5ea0af554227a",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "SALE_FORMAT",
+            "value_id": "1359391"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "VOLTAGE",
+            "value_name": "220V"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242085"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "Access point"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "11296606"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCIES",
+            "value_name": "2.4 GHz, 5 GHz"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "Banda dupla"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "2"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Ubiquiti"
+          },
+          {
+            "id": "TOTAL_PORTS_NUMBER",
+            "value_name": "3"
+          },
+          {
+            "id": "LAN_PORTS_NUMBER",
+            "value_name": "2"
+          },
+          {
+            "id": "USB_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "IEEE_STANDARDS",
+            "value_name": "IEEE 802.11a/b/g/n/ac/ac"
+          },
+          {
+            "id": "WITH_RESET_BUTTON",
+            "value_id": "242085"
+          },
+          {
+            "id": "ROUTERS_AND_WIRELESS_SYSTEMS_OPERATING_HUMIDITY",
+            "value_name": "5 % - 95 %"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "700 g"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "4.81 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "22 cm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "22 cm"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_649042-MLA95635360374_102025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_874785-MLA44343945446_122020-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_624427-MLA91980860451_092025-F.jpg"
+        ]
       }
     },
     {
@@ -1307,8 +2645,141 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "5857ef150f3183ed504bf523567bdd378d5f97915ac72e4837cc9c7fdacaead0",
-        "lastSyncedAt": "2026-06-19T17:52:09.011Z",
-        "syncedMetaHash": "cb6892937c97ffe7ab7771e68559bb1284b2a166d399ffc355f19a64623a79c0"
+        "lastSyncedAt": "2026-06-19T18:13:10.604Z",
+        "syncedMetaHash": "adb2f4c28109303ce52c0000d619681c3d7f4a68ca6ebdd871f846d37585e8f7",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Branco"
+          },
+          {
+            "id": "UNITS_PER_PACK",
+            "value_name": "1"
+          },
+          {
+            "id": "VOLTAGE",
+            "value_name": "220V"
+          },
+          {
+            "id": "WITH_POE_CONNECTION",
+            "value_id": "242085"
+          },
+          {
+            "id": "FUNCTIONS",
+            "value_name": "Access point indoor, WMM"
+          },
+          {
+            "id": "CONNECTION_TYPES",
+            "value_id": "360058"
+          },
+          {
+            "id": "WIRELESS_SPEED",
+            "value_name": "0 Mbps"
+          },
+          {
+            "id": "FREQUENCIES",
+            "value_name": "2.4 GHz, 5 GHz"
+          },
+          {
+            "id": "FREQUENCY_TYPE",
+            "value_name": "Banda dupla"
+          },
+          {
+            "id": "INTERNAL_ANTENNAS_NUMBER",
+            "value_name": "4"
+          },
+          {
+            "id": "EXTERNAL_ANTENNAS_NUMBER",
+            "value_name": "0"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_name": "Ubiquiti"
+          },
+          {
+            "id": "ROUTERS_AND_WIRELESS_SYSTEMS_BANDWIDTH",
+            "value_name": "300mbps"
+          },
+          {
+            "id": "TOTAL_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "LAN_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "USB_PORTS_NUMBER",
+            "value_name": "1"
+          },
+          {
+            "id": "IEEE_STANDARDS",
+            "value_name": "IEEE 802.11a/b/g/n/r/k/v/ac"
+          },
+          {
+            "id": "WITH_INTEGRATED_FIREWALL",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_HOTSPOT",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_RESET_BUTTON",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_PARENTAL_CONTROL",
+            "value_id": "242084"
+          },
+          {
+            "id": "WITH_ADAPTATIVE_QOS_FUNCTION",
+            "value_id": "242085"
+          },
+          {
+            "id": "WITH_AI_PROTECTION",
+            "value_id": "242084"
+          },
+          {
+            "id": "SECURITY_PROTOCOLS",
+            "value_name": "WPA, WPA2"
+          },
+          {
+            "id": "ROUTERS_AND_WIRELESS_SYSTEMS_OPERATING_HUMIDITY",
+            "value_name": "5 % - 95 %"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "300 g"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "3.265 cm"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "16 cm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "16 cm"
+          },
+          {
+            "id": "DIAMETER",
+            "value_name": "20 cm"
+          }
+        ],
+        "pictureSources": [
+          "https://http2.mlstatic.com/D_NQ_NP_707719-MLA99549825702_122025-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_911189-MLU72607350217_102023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_863540-MLA51147215439_082022-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_864442-MLU72536708692_102023-F.jpg",
+          "https://http2.mlstatic.com/D_NQ_NP_918821-MLA51147215441_082022-F.jpg"
+        ]
       }
     },
     {
@@ -1360,8 +2831,48 @@
         "syncedQuantity": 1,
         "syncedStatus": "active",
         "syncedDescHash": "325e1c7e99a3168e18e495cda44e854cd73996f433ce0ccfb6e4927e85365f52",
-        "lastSyncedAt": "2026-06-19T17:52:09.409Z",
-        "syncedMetaHash": "6f36c8e1f0aba4009110906e1cf92681daad717cbca1c58432fe93067c6a3fea"
+        "lastSyncedAt": "2026-06-19T18:20:19.181Z",
+        "syncedMetaHash": "cada9840aa4646899902752be54ddfdaf324adaa69d6871e497d3968b8395152",
+        "attributes": [
+          {
+            "id": "LINE",
+            "value_name": "UniFi"
+          },
+          {
+            "id": "SERIE",
+            "value_name": "UniFi Switch"
+          },
+          {
+            "id": "IS_MANAGEABLE",
+            "value_id": "242085"
+          },
+          {
+            "id": "COMMUTATION_CAPACITY",
+            "value_name": "36 Gbps"
+          },
+          {
+            "id": "WIDTH",
+            "value_name": "442 mm"
+          },
+          {
+            "id": "HEIGHT",
+            "value_name": "44 mm"
+          },
+          {
+            "id": "DEPTH",
+            "value_name": "285 mm"
+          },
+          {
+            "id": "WEIGHT",
+            "value_name": "2.93 kg"
+          }
+        ],
+        "pictureSources": [
+          "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/39155/58654/ubiquiti-US-16-150W%5F0fhu-3k%5F%5F47274.1547988964.jpg?c=2&imbypass=on",
+          "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/39155/58659/ubi-us-16-01%5F1024x1024%5F%5F56209.1547988968.png?c=2&imbypass=on",
+          "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/39155/58656/ubi-us-16-02%5F1024x1024%5F%5F10543.1547988966.png?c=2&imbypass=on",
+          "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/39155/58658/ubi-us-16-04%5F1024x1024%5F%5F08724.1547988967.png?c=2&imbypass=on"
+        ]
       }
     }
   ]

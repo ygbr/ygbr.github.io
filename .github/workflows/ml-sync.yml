@@ -23,16 +23,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # No-op (green) until the ML credentials are configured as secrets.
+      - name: Check configuration
+        id: cfg
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+        run: |
+          if [ -z "$ML_CLIENT_ID" ]; then
+            echo "::notice::ML secrets not configured yet — skipping sync (no-op). See scripts/ml-sync/README.md."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.cfg.outputs.configured == 'true'
         with:
           node-version: 20
           cache: npm
           cache-dependency-path: scripts/ml-sync/package-lock.json
 
       - run: npm ci
+        if: steps.cfg.outputs.configured == 'true'
         working-directory: scripts/ml-sync
 
       - name: Sync catalog to Mercado Livre
+        if: steps.cfg.outputs.configured == 'true'
         working-directory: scripts/ml-sync
         env:
           ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
@@ -43,6 +59,7 @@ jobs:
         run: node index.mjs
 
       - name: Commit catalog state write-back
+        if: steps.cfg.outputs.configured == 'true'
         run: |
           git config user.name  "ml-sync-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

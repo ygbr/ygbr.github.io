@@ -30,7 +30,7 @@
       "model": "AirPods Max",
       "mlTitle": "AirPods Max — Azul-céu",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 800,
@@ -46,14 +46,14 @@
       "ml": {
         "categoryId": "MLB7457",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999127090",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999127090-airpods-max-azul-ceu-_JM",
+        "status": "paused",
+        "syncedPrice": 2900,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "ea6018477120e822e2cc0161e259b4de274dc47fb882fb1465241ddfb326e5dc",
+        "lastSyncedAt": "2026-06-19T14:05:29.227Z"
       }
     },
     {
@@ -96,14 +96,32 @@
       "ml": {
         "categoryId": "MLB1652",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999095008",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999095008-macbook-pro-14-m2-max-32gb-1tb-liquid-retina-xdr-_JM",
+        "status": "paused",
+        "syncedPrice": 15000,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "e98594258f556d19a098711024d37ff2b5fd50ccb4c242996385bd88d38e6f53",
+        "lastSyncedAt": "2026-06-19T14:12:59.644Z",
+        "attributes": [
+          {
+            "id": "DISPLAY_SIZE",
+            "value_name": "14\""
+          },
+          {
+            "id": "PROCESSOR_BRAND",
+            "value_id": "9344"
+          },
+          {
+            "id": "PROCESSOR_LINE",
+            "value_name": "Apple M2"
+          },
+          {
+            "id": "PROCESSOR_MODEL",
+            "value_name": "M2 Max"
+          }
+        ]
       }
     },
     {
@@ -146,14 +164,32 @@
       "ml": {
         "categoryId": "MLB269606",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999131594",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999131594-mac-mini-m2-pro-16-gb-1-tb-_JM",
+        "status": "paused",
+        "syncedPrice": 7000,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "37af7793424f2894fc5e174695e56909f57c7801a83819a66cca09f368dfa9e6",
+        "lastSyncedAt": "2026-06-19T14:13:00.537Z",
+        "attributes": [
+          {
+            "id": "VOLTAGE",
+            "value_id": "39205163"
+          },
+          {
+            "id": "PROCESSOR_BRAND",
+            "value_name": "Apple"
+          },
+          {
+            "id": "PROCESSOR_LINE",
+            "value_name": "Apple M2"
+          },
+          {
+            "id": "PROCESSOR_MODEL",
+            "value_name": "M2 Pro"
+          }
+        ]
       }
     },
     {
@@ -180,7 +216,7 @@
       "model": "Magic Keyboard com teclado numérico",
       "mlTitle": "Magic Keyboard com teclado numérico — Preto",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 600,
@@ -196,14 +232,14 @@
       "ml": {
         "categoryId": "MLB418472",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999127106",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999127106-magic-keyboard-com-teclado-numerico-preto-_JM",
+        "status": "paused",
+        "syncedPrice": 550,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "5712a4bc6c564185676fcc95c026a194b5bb50764bb855f8f802381c5462345c",
+        "lastSyncedAt": "2026-06-19T14:05:31.027Z"
       }
     },
     {
@@ -230,7 +266,7 @@
       "model": "Magic Mouse 2",
       "mlTitle": "Magic Mouse 2 — Preto",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 300,
@@ -246,14 +282,14 @@
       "ml": {
         "categoryId": "MLB1714",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999127120",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999127120-magic-mouse-2-preto-_JM",
+        "status": "paused",
+        "syncedPrice": 450,
+        "syncedQuantity": 2,
+        "syncedStatus": "active",
+        "syncedDescHash": "b7eacf4fec62fb93d505b3ec599adee0750159132e61624c83e61ebe9eead09a",
+        "lastSyncedAt": "2026-06-19T14:05:31.910Z"
       }
     },
     {
@@ -296,14 +332,14 @@
       "ml": {
         "categoryId": "MLB130007",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB4796465275",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-4796465275-magic-trackpad-preto-_JM",
+        "status": "paused",
+        "syncedPrice": 350,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "584098ff9da22e23d5c25d837abf5cf5372c7eb1b4641b51d2a3b7f42bbee593",
+        "lastSyncedAt": "2026-06-19T13:55:34.393Z"
       }
     },
     {
@@ -329,7 +365,7 @@
       "model": "Magic Keyboard",
       "mlTitle": "Magic Keyboard — Branco",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 450,
@@ -345,14 +381,14 @@
       "ml": {
         "categoryId": "MLB418472",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999139770",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999139770-magic-keyboard-branco-_JM",
+        "status": "paused",
+        "syncedPrice": 300,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "c09705b8cf44008b017b903bf7184ef6cb845ae5798632dab87741643db8d933",
+        "lastSyncedAt": "2026-06-19T14:05:32.762Z"
       }
     },
     {
@@ -380,7 +416,7 @@
       "model": "hEX S (RB760iGS)",
       "mlTitle": "MikroTik hEX S (RB760iGS)",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 400,
@@ -396,14 +432,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999090464",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999090464-mikrotik-hex-s-rb760igs-_JM",
+        "status": "paused",
+        "syncedPrice": 400,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "a9fc29c38eb6b17d8d719417a2e646a88b7c884d8cd33b5a90fc4238295d1821",
+        "lastSyncedAt": "2026-06-19T14:05:33.622Z"
       }
     },
     {
@@ -431,7 +467,7 @@
       "model": "Pi 4 Model B 8GB",
       "mlTitle": "Raspberry Pi 4 Model B — 8 GB",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 200,
@@ -447,14 +483,14 @@
       "ml": {
         "categoryId": "MLB99779",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999139794",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999139794-raspberry-pi-4-model-b-8-gb-_JM",
+        "status": "paused",
+        "syncedPrice": 500,
+        "syncedQuantity": 4,
+        "syncedStatus": "active",
+        "syncedDescHash": "78a9ced7b15e519f5ab473063a74d8a0c35cdb15c22cd26d2a7735f0010f9c06",
+        "lastSyncedAt": "2026-06-19T14:05:34.450Z"
       }
     },
     {
@@ -482,7 +518,7 @@
       "model": "Pi 4 Model B 4GB",
       "mlTitle": "Raspberry Pi 4 Model B — 4 GB",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 200,
@@ -498,14 +534,14 @@
       "ml": {
         "categoryId": "MLB99779",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999127144",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999127144-raspberry-pi-4-model-b-4-gb-_JM",
+        "status": "paused",
+        "syncedPrice": 400,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "0b0fcd28959bad022c21003e8b4da04cf230731b1e63e14bb3d6d6733cf92ad8",
+        "lastSyncedAt": "2026-06-19T14:05:35.298Z"
       }
     },
     {
@@ -549,14 +585,14 @@
       "ml": {
         "categoryId": "MLB99889",
         "categoryConfirmed": true,
-        "itemId": null,
+        "itemId": "MLB6999090508",
         "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "status": "active",
+        "syncedPrice": 4200,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "e52dc8fb2d32dc013c2803d7bbadd5d68eb4435de554243824bcf544c0683702",
+        "lastSyncedAt": "2026-06-19T14:13:00.831Z"
       }
     },
     {
@@ -600,14 +636,24 @@
       "ml": {
         "categoryId": "MLB135384",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999206914",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999206914-apple-watch-ultra-49mm-titnio-gps-cellular-_JM",
+        "status": "paused",
+        "syncedPrice": 4500,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "70f6ee06b4fad711bda92991c551cc8e9a8f46cf5149e9d8ab1a1cc7480060b6",
+        "lastSyncedAt": "2026-06-19T14:13:01.718Z",
+        "attributes": [
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "A2622"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_id": "9344"
+          }
+        ]
       }
     },
     {
@@ -634,7 +680,7 @@
       "model": "Goggles RE (Racing Edition)",
       "mlTitle": "DJI Goggles RE (Racing Edition)",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 1300,
@@ -650,14 +696,14 @@
       "ml": {
         "categoryId": "MLB271373",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999131628",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999131628-dji-goggles-re-racing-edition-_JM",
+        "status": "paused",
+        "syncedPrice": 1000,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "03286d7c352aa5eaea081772a79f3d856e558161a00b14f03d3ab9f76b423a16",
+        "lastSyncedAt": "2026-06-19T14:13:02.641Z"
       }
     },
     {
@@ -701,14 +747,14 @@
       "ml": {
         "categoryId": "MLB180137",
         "categoryConfirmed": true,
-        "itemId": null,
+        "itemId": "MLB4796482385",
         "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "status": "active",
+        "syncedPrice": 6000,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "2a1717ba93aea99993b7d287ade0018855cd49a62e48105f59057cacb923fe32",
+        "lastSyncedAt": "2026-06-19T14:13:02.949Z"
       }
     },
     {
@@ -736,7 +782,7 @@
       "model": "One Hyper",
       "mlTitle": "Motorola One Hyper — 128 GB · Azul",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 450,
@@ -759,7 +805,29 @@
         "syncedQuantity": null,
         "syncedStatus": null,
         "syncedDescHash": null,
-        "lastSyncedAt": null
+        "lastSyncedAt": null,
+        "attributes": [
+          {
+            "id": "COLOR",
+            "value_id": "52028"
+          },
+          {
+            "id": "ALPHANUMERIC_MODELS",
+            "value_name": "XT2027-1"
+          },
+          {
+            "id": "IS_DUAL_SIM",
+            "value_id": "242085"
+          },
+          {
+            "id": "MANUFACTURER",
+            "value_id": "40085909"
+          },
+          {
+            "id": "CARRIER",
+            "value_id": "298335"
+          }
+        ]
       }
     },
     {
@@ -787,7 +855,7 @@
       "model": "Jetson Nano Developer Kit",
       "mlTitle": "NVIDIA Jetson Nano Developer Kit — 4 GB",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 350,
@@ -803,14 +871,32 @@
       "ml": {
         "categoryId": "MLB269606",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999207008",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999207008-nvidia-jetson-nano-developer-kit-4-gb-_JM",
+        "status": "paused",
+        "syncedPrice": 1200,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "7bca680cf317e0067414ebe1373a6aac650a9e3248e05cec04a3ee9131134217",
+        "lastSyncedAt": "2026-06-19T14:13:06.076Z",
+        "attributes": [
+          {
+            "id": "VOLTAGE",
+            "value_id": "39205163"
+          },
+          {
+            "id": "PROCESSOR_BRAND",
+            "value_name": "NVIDIA"
+          },
+          {
+            "id": "PROCESSOR_LINE",
+            "value_name": "Tegra"
+          },
+          {
+            "id": "PROCESSOR_MODEL",
+            "value_name": "Tegra X1"
+          }
+        ]
       }
     },
     {
@@ -838,7 +924,7 @@
       "model": "UniFi Protect G3 Flex (UVC-G3-Flex)",
       "mlTitle": "Câmera Ubiquiti UniFi G3 Flex UVC-G3-Flex 1080p PoE",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 300,
@@ -854,14 +940,24 @@
       "ml": {
         "categoryId": "MLB7073",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999095158",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999095158-cmera-ubiquiti-unifi-g3-flex-uvc-g3-flex-1080p-poe-_JM",
+        "status": "paused",
+        "syncedPrice": 400,
+        "syncedQuantity": 6,
+        "syncedStatus": "active",
+        "syncedDescHash": "7972ec7c2d792b20c412fa64511915950b66ce6ef0d9b2ca694fc7e6a1c6670d",
+        "lastSyncedAt": "2026-06-19T14:13:06.951Z",
+        "attributes": [
+          {
+            "id": "CAMERA_LOCATIONS",
+            "value_id": "28284812"
+          },
+          {
+            "id": "SURVEILLANCE_CAMERA_TYPE",
+            "value_id": "347863"
+          }
+        ]
       }
     },
     {
@@ -889,7 +985,7 @@
       "model": "UniFi Cloud Key Gen2 Plus (UCK-G2-Plus)",
       "mlTitle": "Ubiquiti UniFi Cloud Key Gen2 Plus UCK-G2-Plus 1TB",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 700,
@@ -905,14 +1001,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
+        "itemId": "MLB6999127170",
         "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "status": "active",
+        "syncedPrice": 1500,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "20f4b1b3f8fd1c404ab842b14a6499c53b0ed67e20731fcb94e0bdbea8940708",
+        "lastSyncedAt": "2026-06-19T14:13:07.313Z"
       }
     },
     {
@@ -942,7 +1038,7 @@
       "model": "Standard Actuated (antena v2)",
       "mlTitle": "Starlink Kit Antena V2 Standard Actuated Motorizada",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 5500,
@@ -958,14 +1054,14 @@
       "ml": {
         "categoryId": "MLB457889",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999139872",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999139872-starlink-kit-antena-v2-standard-actuated-motorizada-_JM",
+        "status": "paused",
+        "syncedPrice": 1500,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "6d6f70d702798c4444e0d2452104a1137e4827a0c25cbf7b25e8dc5937af4a9e",
+        "lastSyncedAt": "2026-06-19T14:05:41.357Z"
       }
     },
     {
@@ -993,7 +1089,7 @@
       "model": "AirPort Extreme A1521 (6ª geração)",
       "mlTitle": "Apple AirPort Extreme A1521 6ª Geração 802.11ac",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 1000,
@@ -1009,14 +1105,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB4796482421",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-4796482421-apple-airport-extreme-a1521-6-geraco-80211ac-_JM",
+        "status": "paused",
+        "syncedPrice": 250,
+        "syncedQuantity": 2,
+        "syncedStatus": "active",
+        "syncedDescHash": "748460d1df5f5a4d2121eafa897a1d252115ddefb2b0ea037c9705796b773323",
+        "lastSyncedAt": "2026-06-19T14:05:42.241Z"
       }
     },
     {
@@ -1045,7 +1141,7 @@
       "model": "UniFi AP AC HD (UAP-AC-HD)",
       "mlTitle": "Ubiquiti UniFi AP AC HD UAP-AC-HD Wi-Fi 5 Wave 2",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 700,
@@ -1061,14 +1157,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999127184",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999127184-ubiquiti-unifi-ap-ac-hd-uap-ac-hd-wi-fi-5-wave-2-_JM",
+        "status": "paused",
+        "syncedPrice": 900,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "15787ddf32d9b026318376c39bab6bac8f4820cb316969d366c31ca8a3f7cc07",
+        "lastSyncedAt": "2026-06-19T14:05:43.093Z"
       }
     },
     {
@@ -1097,7 +1193,7 @@
       "model": "UniFi AP AC SHD (UAP-AC-SHD)",
       "mlTitle": "Ubiquiti UniFi AP AC SHD UAP-AC-SHD Wave 2 Segurança",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 700,
@@ -1113,14 +1209,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999139898",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999139898-ubiquiti-unifi-ap-ac-shd-uap-ac-shd-wave-2-seguranca-_JM",
+        "status": "paused",
+        "syncedPrice": 1200,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "55adc17effc173e54027839bae300dec7e5dab8ef1ea0a5cf293a74fbab1fa1a",
+        "lastSyncedAt": "2026-06-19T14:05:43.972Z"
       }
     },
     {
@@ -1149,7 +1245,7 @@
       "model": "UniFi nanoHD (UAP-nanoHD)",
       "mlTitle": "Ubiquiti UniFi nanoHD UAP-nanoHD Wi-Fi 5 Wave 2",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 350,
@@ -1165,14 +1261,14 @@
       "ml": {
         "categoryId": "MLB5867",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB4796482437",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-4796482437-ubiquiti-unifi-nanohd-uap-nanohd-wi-fi-5-wave-2-_JM",
+        "status": "paused",
+        "syncedPrice": 550,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "172c6212b37e603dc2786cc96f298b4ba5520985b38d483a93a41b93fb7d2ac9",
+        "lastSyncedAt": "2026-06-19T14:05:44.814Z"
       }
     },
     {
@@ -1201,7 +1297,7 @@
       "model": "UniFi Switch US-16-150W",
       "mlTitle": "Switch Ubiquiti UniFi US-16-150W 16 Portas PoE+ Gigabit",
       "mlCondition": "used",
-      "listingTypeId": "free",
+      "listingTypeId": "gold_special",
       "warranty": "Sem garantia",
       "shipping": {
         "weightGrams": 2600,
@@ -1217,14 +1313,14 @@
       "ml": {
         "categoryId": "MLB1708",
         "categoryConfirmed": true,
-        "itemId": null,
-        "permalink": null,
-        "status": null,
-        "syncedPrice": null,
-        "syncedQuantity": null,
-        "syncedStatus": null,
-        "syncedDescHash": null,
-        "lastSyncedAt": null
+        "itemId": "MLB6999090586",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-6999090586-switch-ubiquiti-unifi-us-16-150w-16-portas-poe-gigabit-_JM",
+        "status": "paused",
+        "syncedPrice": 900,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "83de11c3c4dbb1e68a5fa81bc9224b988b73c17fd80f40fd0f22c42a562ff6af",
+        "lastSyncedAt": "2026-06-19T14:05:45.650Z"
       }
     }
   ]

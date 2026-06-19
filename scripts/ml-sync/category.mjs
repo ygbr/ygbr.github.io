@@ -11,8 +11,12 @@ export async function predictCategory(client, title) {
   return Array.isArray(res) && res.length ? res[0] : null; // {category_id, category_name, domain_id, ...}
 }
 
-/** Required attributes for a category (ids the create body must include). */
-export async function getRequiredAttributes(client, categoryId) {
-  const attrs = await client.get(`/categories/${categoryId}/attributes`, { auth: false });
-  return (attrs || []).filter((a) => a.tags && (a.tags.required || a.tags.catalog_required));
+/** All attributes defined for a category. */
+export async function getCategoryAttributes(client, categoryId) {
+  return (await client.get(`/categories/${categoryId}/attributes`, { auth: false })) || [];
+}
+
+/** Required attributes (subset the create body must include). */
+export function requiredAttributes(attrs) {
+  return attrs.filter((a) => a.tags && (a.tags.required || a.tags.catalog_required));
 }

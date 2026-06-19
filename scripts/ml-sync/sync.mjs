@@ -1,6 +1,6 @@
 // Per-product reconcile: create if new, otherwise update price/stock/status,
 // keep the description in sync, and pause/reactivate based on stock.
-import { predictCategory, getRequiredAttributes } from "./category.mjs";
+import { predictCategory, getCategoryAttributes, requiredAttributes } from "./category.mjs";
 import {
   buildCreateBody, buildUpdateBody, descText, descHash, desiredStatus,
 } from "./itemBuilder.mjs";
@@ -29,7 +29,12 @@ export async function syncProduct(client, p, meta, { dryRun }) {
       return { action: "update", itemId: p.ml.itemId, body: buildUpdateBody(p), descChanged };
     }
     if (fieldsChanged) await client.put(`/items/${p.ml.itemId}`, buildUpdateBody(p));
-    if (descChanged) await client.put(`/items/${p.ml.itemId}/description`, { plain_text: descText(p, meta) });
+    if (descChanged) {
+      // PUT updates an existing description; items created without one need POST.
+      const dbody = { plain_text: descText(p, meta) };
+      try { await client.put(`/items/${p.ml.itemId}/description`, dbody); }
+      catch { await client.post(`/items/${p.ml.itemId}/description`, dbody); }
+    }
 
     p.ml.status = status;
     p.ml.syncedPrice = p.price;
@@ -52,10 +57,41 @@ export async function syncProduct(client, p, meta, { dryRun }) {
     };
   }
 
-  const required = await getRequiredAttributes(client, p.ml.categoryId);
+  const allAttrs = await getCategoryAttributes(client, p.ml.categoryId);
+  const required = requiredAttributes(allAttrs);
+  const defines = (id) => allAttrs.some((a) => a.id === id);
+
+  // Attributes we synthesize beyond BRAND/MODEL.
+  const extras = [];
   const have = new Set(["BRAND", "MODEL"]);
+
+  // Send the real item condition so condition-gated rules evaluate correctly
+  // (e.g. GTIN is `used_hidden`, so it's not required once ML knows it's used).
+  const condId =
+    p.mlCondition === "used" ? "2230581" :
+    p.mlCondition === "new" ? "2230284" : null;
+  if (condId && defines("ITEM_CONDITION")) {
+    extras.push({ id: "ITEM_CONDITION", value_id: condId });
+    have.add("ITEM_CONDITION");
+  }
+
+  // Used gear has no barcode: declare the empty-GTIN reason rather than send a
+  // fake code (ML rejects free text and validates GTIN as a real 8-14 digit code).
+  if (defines("GTIN")) {
+    have.add("GTIN");
+    if (defines("EMPTY_GTIN_REASON")) {
+      extras.push({ id: "EMPTY_GTIN_REASON", value_id: "17055160" }); // "não tem código cadastrado"
+      have.add("EMPTY_GTIN_REASON");
+    }
+  }
+
+  // Per-product category-specific attributes from products.json (ml.attributes).
+  if (Array.isArray(p.ml.attributes)) {
+    for (const a of p.ml.attributes) { extras.push(a); have.add(a.id); }
+  }
+
   const missing = required.map((a) => a.id).filter((id) => !have.has(id));
-  const body = buildCreateBody(p, meta);
+  const body = buildCreateBody(p, meta, extras);
 
   if (dryRun) return { action: "create", body, missingRequiredAttrs: missing };
 

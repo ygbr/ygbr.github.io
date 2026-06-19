@@ -16,7 +16,10 @@ export function descText(p, meta) {
     `Local: ${meta.location}`,
     "Pagamento via Mercado Pago. Envio por Mercado Envios ou retirada em mãos combinada."
   );
-  return lines.join("\n");
+  // ML's description endpoint rejects typographic primes/quotes as non-plain-text.
+  return lines.join("\n")
+    .replace(/[″“”]/g, '"')  // ″ “ ” -> "
+    .replace(/[′‘’]/g, "'"); // ′ ‘ ’ -> '
 }
 
 export function descHash(p, meta) {
@@ -24,11 +27,12 @@ export function descHash(p, meta) {
 }
 
 /** POST /items body to publish a new listing. */
-export function buildCreateBody(p, meta) {
+export function buildCreateBody(p, meta, extraAttributes = []) {
   const d = p.shipping.dimensions;
   return {
     title: p.mlTitle.slice(0, 60),
     category_id: p.ml.categoryId,
+    seller_custom_field: p.id, // SKU = slug → lets discover() match listings back to products
     price: p.price,
     currency_id: CURRENCY,
     available_quantity: p.quantity,
@@ -39,6 +43,7 @@ export function buildCreateBody(p, meta) {
     attributes: [
       { id: "BRAND", value_name: p.brand },
       { id: "MODEL", value_name: p.model },
+      ...extraAttributes,
     ],
     sale_terms: [{ id: "WARRANTY_TYPE", value_name: p.warranty }],
     shipping: {

@@ -1,0 +1,72 @@
+name: ml-sync
+
+on:
+  workflow_dispatch: {}          # manual "Run workflow" button
+  push:
+    branches: [ master ]
+    paths: [ "products.json" ]   # sync whenever the catalog changes
+  # Optional safety-net reconcile. Uncomment to also run daily at 09:00 UTC.
+  # schedule:
+  #   - cron: "0 9 * * *"
+
+# Never let two runs refresh/rotate the token at the same time.
+concurrency:
+  group: ml-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write                # commit the products.json write-back
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # No-op (green) until the ML credentials are configured as secrets.
+      - name: Check configuration
+        id: cfg
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+        run: |
+          if [ -z "$ML_CLIENT_ID" ]; then
+            echo "::notice::ML secrets not configured yet — skipping sync (no-op). See scripts/ml-sync/README.md."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.cfg.outputs.configured == 'true'
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: scripts/ml-sync/package-lock.json
+
+      - run: npm ci
+        if: steps.cfg.outputs.configured == 'true'
+        working-directory: scripts/ml-sync
+
+      - name: Sync catalog to Mercado Livre
+        if: steps.cfg.outputs.configured == 'true'
+        working-directory: scripts/ml-sync
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+          ML_REFRESH_TOKEN: ${{ secrets.ML_REFRESH_TOKEN }}
+          GH_SECRETS_PAT: ${{ secrets.GH_SECRETS_PAT }}
+          GH_REPO: ${{ github.repository }}
+        run: node index.mjs
+
+      - name: Commit catalog state write-back
+        if: steps.cfg.outputs.configured == 'true'
+        run: |
+          git config user.name  "ml-sync-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- products.json; then
+            git add products.json
+            git commit -m "chore(ml-sync): update ML item ids/status [skip ci]"
+            git push
+          else
+            echo "No catalog state changes to commit."
+          fi

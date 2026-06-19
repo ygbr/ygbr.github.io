@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# ml-sync
+node_modules/
+scripts/ml-sync/.tokens.json

@@ -1,0 +1,14 @@
+{
+  "name": "ml-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sync products.json to Mercado Livre (MLB) listings.",
+  "scripts": {
+    "sync": "node index.mjs",
+    "dry-run": "node index.mjs --dry-run"
+  },
+  "dependencies": {
+    "libsodium-wrappers": "^0.7.15"
+  }
+}

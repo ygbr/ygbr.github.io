@@ -2960,6 +2960,73 @@
           "https://datavision.com/cdn/shop/products/i755020_04.jpg?width=1946"
         ]
       }
+    },
+    {
+      "id": "homepod-mini-space-gray",
+      "category": "Áudio",
+      "name": "HomePod mini — Cinza-espacial",
+      "images": [
+        "photos/homepod-mini-space-gray.jpg"
+      ],
+      "icon": "headphones",
+      "price": 700,
+      "condition": "Usado · ótimo estado",
+      "quantity": 1,
+      "description": "Apple HomePod mini (modelo A2374) na cor Cinza-espacial: caixa de som inteligente com som de 360° nítido e equilibrado, graves profundos e agudos definidos em um corpo compacto. Conta com a assistente Siri por controle de voz, chip Apple S5, Wi-Fi e Bluetooth 5.0 e Áudio Computacional, que ajusta o som em tempo real. Pode formar par estéreo com outro HomePod mini, funciona como central da casa inteligente (HomeKit) e integra à conta da família. Cabo de alimentação USB-C integrado ao aparelho.",
+      "specs": [
+        "Som de 360°",
+        "Assistente Siri",
+        "Chip Apple S5",
+        "Wi-Fi + Bluetooth 5.0",
+        "Áudio Computacional",
+        "Par estéreo + HomeKit"
+      ],
+      "note": "Cabo de alimentação USB-C integrado ao aparelho.",
+      "brand": "Apple",
+      "model": "HomePod mini",
+      "mlTitle": "Apple HomePod mini Cinza-espacial Caixa de Som Siri",
+      "mlCondition": "used",
+      "listingTypeId": "gold_special",
+      "warranty": "Sem garantia",
+      "shipping": {
+        "weightGrams": 700,
+        "dimensions": {
+          "length": 14,
+          "width": 14,
+          "height": 14
+        },
+        "mode": "me2",
+        "localPickUp": true,
+        "freeShipping": false
+      },
+      "ml": {
+        "categoryId": "MLB278167",
+        "categoryConfirmed": true,
+        "attributes": [
+          {
+            "id": "COLOR",
+            "value_id": "52051"
+          },
+          {
+            "id": "LINE",
+            "value_name": "HomePod"
+          },
+          {
+            "id": "VIRTUAL_ASSISTANTS",
+            "value_id": "8443192"
+          },
+          {
+            "id": "WITH_BLUETOOTH",
+            "value_id": "242085"
+          }
+        ],
+        "pictureSources": [
+          "https://datavision.com/cdn/shop/products/db32cce7-cb31-4534-9098-9554dbf6b740.jpg?width=1946",
+          "https://simplecellbulk.com/cdn/shop/files/Z91040-2__1_37844836-d939-46d6-ac22-b8d25246cc88.jpg?width=1946",
+          "https://simplecellbulk.com/cdn/shop/files/Z91040-2__2_ca47f3f8-3198-4342-ae5f-e7ef43cb92ed.jpg?width=1946",
+          "https://simplecellbulk.com/cdn/shop/files/Z91040-2__3_3dda40bb-651f-42a3-8a5f-8f792fca8111.jpg?width=1946"
+        ]
+      }
     }
   ]
 }

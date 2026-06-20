@@ -2958,7 +2958,16 @@
           "https://datavision.com/cdn/shop/products/i755020_03.jpg?width=1946",
           "https://datavision.com/cdn/shop/products/i755020_07.jpg?width=1946",
           "https://datavision.com/cdn/shop/products/i755020_04.jpg?width=1946"
-        ]
+        ],
+        "itemId": "MLB7006116202",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-7006116202-rob-aspirador-irobot-roomba-i7-7550-com-clean-base-_JM",
+        "status": "active",
+        "syncedPrice": 3000,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "5f0bc1cabdc5582b3fa969074d8d95f3eeee757534349a4a276514f33ffb8c2f",
+        "syncedMetaHash": "8d82bb239a41202c710867760c430951fdb58a38bfcb024df3bc127692e9c180",
+        "lastSyncedAt": "2026-06-20T22:08:31.772Z"
       }
     },
     {
@@ -3025,7 +3034,16 @@
           "https://simplecellbulk.com/cdn/shop/files/Z91040-2__1_37844836-d939-46d6-ac22-b8d25246cc88.jpg?width=1946",
           "https://simplecellbulk.com/cdn/shop/files/Z91040-2__2_ca47f3f8-3198-4342-ae5f-e7ef43cb92ed.jpg?width=1946",
           "https://simplecellbulk.com/cdn/shop/files/Z91040-2__3_3dda40bb-651f-42a3-8a5f-8f792fca8111.jpg?width=1946"
-        ]
+        ],
+        "itemId": "MLB7006153576",
+        "permalink": "http://produto.mercadolivre.com.br/MLB-7006153576-apple-homepod-mini-cinza-espacial-caixa-de-som-siri-_JM",
+        "status": "active",
+        "syncedPrice": 700,
+        "syncedQuantity": 1,
+        "syncedStatus": "active",
+        "syncedDescHash": "ede7f161825e54d6f36cb5c40a900024403c9ce8ca1aec8dfeac874969ef542b",
+        "syncedMetaHash": "c8437e25e4f3516c196d3991df4eaa1dec961b5e9f55b490e615bc4dc201539f",
+        "lastSyncedAt": "2026-06-20T22:08:32.121Z"
       }
     }
   ]

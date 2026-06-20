@@ -133,7 +133,7 @@ export async function syncProduct(client, p, meta, { dryRun }) {
   p.ml.syncedQuantity = p.quantity;
   p.ml.syncedStatus = desiredStatus(p);
   p.ml.syncedDescHash = descHash(p, meta);
-  p.ml.syncedMetaHash = metaHash(p, meta, extras);
+  p.ml.syncedMetaHash = metaHash(p, extras);
   p.ml.lastSyncedAt = new Date().toISOString();
   return { action: "create", itemId: created.id, missingRequiredAttrs: missing };
 }

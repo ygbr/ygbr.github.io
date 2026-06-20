@@ -2888,6 +2888,78 @@
           "https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/1280x1280/products/39155/58658/ubi-us-16-04%5F1024x1024%5F%5F08724.1547988967.png?c=2&imbypass=on"
         ]
       }
+    },
+    {
+      "id": "roomba-i7-plus",
+      "category": "Casa Inteligente",
+      "name": "iRobot Roomba i7+ — Robô Aspirador com Clean Base",
+      "images": [
+        "photos/roomba-i7-plus.jpg"
+      ],
+      "icon": "desktop",
+      "price": 3000,
+      "condition": "Usado · ótimo estado",
+      "quantity": 1,
+      "description": "Robô aspirador iRobot Roomba i7+ (modelo 7550) na cor preta, com a Clean Base de descarte automático: o próprio robô esvazia o reservatório e guarda a sujeira por até 60 dias no saco AllergenLock. Navegação vSLAM com mapeamento inteligente (Smart Maps) para limpar em fileiras organizadas e por cômodo direto no app. Sucção 10× mais potente, escovas duplas de borracha multi-superfície e filtro de alta eficiência que retém 99% dos alérgenos. Wi-Fi, compatível com Alexa e Google Assistente; recarrega e retoma a limpeza de onde parou.",
+      "specs": [
+        "Clean Base (esvazia sozinho)",
+        "Até 60 dias sem esvaziar",
+        "Mapeamento vSLAM / Smart Maps",
+        "Sucção 10× mais potente",
+        "Wi-Fi + app iRobot",
+        "Alexa e Google Assistente"
+      ],
+      "note": "Acompanha a Clean Base de descarte automático e saco AllergenLock.",
+      "brand": "iRobot",
+      "model": "Roomba i7+",
+      "mlTitle": "Robô Aspirador iRobot Roomba i7+ 7550 com Clean Base",
+      "mlCondition": "used",
+      "listingTypeId": "gold_special",
+      "warranty": "Sem garantia",
+      "shipping": {
+        "weightGrams": 6000,
+        "dimensions": {
+          "length": 48,
+          "width": 40,
+          "height": 40
+        },
+        "mode": "me2",
+        "localPickUp": true,
+        "freeShipping": false
+      },
+      "ml": {
+        "categoryId": "MLB120262",
+        "categoryConfirmed": true,
+        "attributes": [
+          {
+            "id": "POWER_SUPPLY_TYPE",
+            "value_id": "4491927"
+          },
+          {
+            "id": "COLOR",
+            "value_name": "Preto"
+          },
+          {
+            "id": "MAIN_COLOR",
+            "value_id": "2450295"
+          },
+          {
+            "id": "LINE",
+            "value_name": "Roomba i"
+          },
+          {
+            "id": "ALPHANUMERIC_MODEL",
+            "value_name": "i755020"
+          }
+        ],
+        "pictureSources": [
+          "https://datavision.com/cdn/shop/products/i755020_01.jpg?width=1946",
+          "https://datavision.com/cdn/shop/products/i755020_02.jpg?width=1946",
+          "https://datavision.com/cdn/shop/products/i755020_03.jpg?width=1946",
+          "https://datavision.com/cdn/shop/products/i755020_07.jpg?width=1946",
+          "https://datavision.com/cdn/shop/products/i755020_04.jpg?width=1946"
+        ]
+      }
     }
   ]
 }

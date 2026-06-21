@@ -1043,10 +1043,12 @@
     /* ================================================================
        INIT
        ================================================================ */
-    fetch("/products.json")
+    fetch("/products.json?v=" + Date.now())
       .then((r) => r.json())
       .then((data) => {
-        PRODUCTS = data.products || [];
+        // `hidden: true` items (e.g. sold, pending shipment) stay in products.json
+        // for the Mercado Livre sync but are filtered out of the site catalog.
+        PRODUCTS = (data.products || []).filter((p) => !p.hidden);
         renderFilters();
         renderGrid();
         renderContacts();

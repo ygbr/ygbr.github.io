@@ -711,6 +711,7 @@
     },
     {
       "id": "magic-trackpad-preto",
+      "hidden": true,
       "category": "Acessórios",
       "name": "Magic Trackpad — Preto",
       "images": [
@@ -786,6 +787,7 @@
     },
     {
       "id": "magic-keyboard-branco",
+      "hidden": true,
       "category": "Acessórios",
       "name": "Magic Keyboard — Branco",
       "images": [
@@ -2177,6 +2179,7 @@
     },
     {
       "id": "apple-airport-extreme-a1521",
+      "hidden": true,
       "category": "Redes & Maker",
       "name": "Apple AirPort Extreme (6ª geração, 802.11ac) — A1521",
       "images": [
